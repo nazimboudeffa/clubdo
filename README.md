@@ -10,6 +10,7 @@ Si vous avez toujours rêvé de ça, vous êtes au bon endroit
 - Rester dans la légalité
 - Créer une carte du club do virtuelle en 3D
 - Ajouter une base de donnée, mais pas super chaud pour ça, le site doit être autosuffisant
+- Je sais pas du coup comment ajouter des noms avec leur annif sans que ça me prenne une étérnité
 
 ## Contribution
 
