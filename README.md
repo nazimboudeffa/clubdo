@@ -14,3 +14,9 @@ Si vous avez toujours rêvé de ça, vous êtes au bon endroit
 ## Contribution
 
 Si vous avez des idés n'hésitez pas à ouvrir des issues
+
+## Analytics Publiques
+
+Comme je sais que vous voudriez être célèbres, vous pouvez accèder aux stats publiques du site
+
+https://plausible.codewithadu.de/clubdo
