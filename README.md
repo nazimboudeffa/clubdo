@@ -10,7 +10,14 @@ Si vous avez toujours rêvé de ça, vous êtes au bon endroit
 - Rester dans la légalité
 - Créer une carte du club do virtuelle en 3D
 - Ajouter une base de donnée, mais pas super chaud pour ça, le site doit être autosuffisant
+- Je sais pas du coup comment ajouter des noms avec leur annif sans que ça me prenne une étérnité
 
 ## Contribution
 
 Si vous avez des idés n'hésitez pas à ouvrir des issues
+
+## Analytics Publiques
+
+Comme je sais que vous voudriez être célèbres, vous pouvez accèder aux stats publiques du site
+
+https://plausible.codewithadu.de/clubdo
