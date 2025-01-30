@@ -37,7 +37,7 @@ export default function Home() {
       </div>
     </div>
     <div className="flex flex-col items-centerr">
-      <p className="text-center text-gray-800">© 2025 - Club Dorothée</p>
+      <p className="text-center text-gray-800">© 2025 - Je sais pas qui mais après avoir regardé MERCI DOROTHEE</p>
       <p className='text-center'>Fait avec des 🥐 sur <Link href="https://github.com/nazimboudeffa/clubdo" className="underline">GitHub</Link></p>
     </div>
     </>
