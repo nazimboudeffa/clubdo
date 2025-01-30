@@ -20,4 +20,4 @@ Si vous avez des idés n'hésitez pas à ouvrir des issues
 
 Comme je sais que vous voudriez être célèbres, vous pouvez accèder aux stats publiques du site
 
-https://plausible.codewithadu.de/clubdo
+https://plausible.codewithadu.de/clubdo.fr
