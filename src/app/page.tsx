@@ -38,7 +38,7 @@ export default function Home() {
     </div>
     <div className="flex flex-col items-centerr">
       <p className="text-center text-gray-800">© 2025 - Club Dorothée</p>
-      <p className='text-center'>Fait avec 🥐 sur <Link src="https://github.com/nazimboudeffa/clubdo">GitHub</Link></p>
+      <p className='text-center'>Fait avec 🥐 sur <Link href="https://github.com/nazimboudeffa/clubdo" className="underline">GitHub</Link></p>
     </div>
     </>
   );
